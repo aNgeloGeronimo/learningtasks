@@ -2,7 +2,7 @@
 <html>
   <head>
     <title>My Home Page</title>
-    <meta charset="UTC-8">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
   </head>
   
   <body>
