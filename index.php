@@ -2,6 +2,7 @@
 <html>
   <head>
     <title>My Home Page</title>
+    <meta charset="UTC-8">
   </head>
   
   <body>
